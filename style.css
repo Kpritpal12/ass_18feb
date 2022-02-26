@@ -1,0 +1,42 @@
+.color{
+    color: brown;
+    background-color: azure;
+}
+
+.box1{
+    border: 5px solid black;
+    background-color: orangered;
+    border-radius: 15px;
+    margin: 10px 20px 30px 40px;
+    width: 200px;
+    height: 200px;
+    padding: 50px 100px;
+}
+.box2{
+    border: 10px double red;
+    background-color: wheat;
+    border-radius: 15px;
+    margin: 10px 20px 30px 40px;
+    width: 200px;
+    height: 200px;
+    padding: 50px 100px;
+}
+.circle{
+    width: 200px;
+    height :200px;
+    border: 2px solid black;
+    background-color: red;
+    border-radius: 50%;
+}
+#para1{
+    color: yellow;
+}
+#para2{
+    color: aqua;
+}
+.p1{
+    color:brown;
+}
+.p2{
+    background-color: gray;
+}
